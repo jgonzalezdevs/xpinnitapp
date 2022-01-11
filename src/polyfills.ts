@@ -14,6 +14,11 @@
  * Learn more in https://angular.io/guide/browser-support
  */
 
+declare global {
+  interface Window { global: any; }
+}
+window.global = window;
+
 /***************************************************************************************************
  * BROWSER POLYFILLS
  */

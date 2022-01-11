@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-xpinnitapp-dev-134449-authRole",
+      "UnauthRoleArn": "arn:aws:iam::564204335312:role/amplify-xpinnitapp-dev-134449-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::564204335312:role/amplify-xpinnitapp-dev-134449-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-xpinnitapp-dev-134449-deployment",
+      "UnauthRoleName": "amplify-xpinnitapp-dev-134449-unauthRole",
+      "StackName": "amplify-xpinnitapp-dev-134449",
+      "StackId": "arn:aws:cloudformation:us-east-1:564204335312:stack/amplify-xpinnitapp-dev-134449/8717a040-6fe1-11ec-89ca-0a11d8268625",
+      "AmplifyAppId": "d3nkxpkzt47ag3"
+    }
+  }
+}

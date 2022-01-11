@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "xpinnitapp",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/home/jligo/xpinnitapp/amplify/backend/api/xpinnitapp/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
